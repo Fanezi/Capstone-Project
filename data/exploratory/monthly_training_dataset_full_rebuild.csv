@@ -1,0 +1,245 @@
+Municipality,Financial_Year,Calendar_Year,Month,Rainfall_Extreme_Precip_Index,Rainfall_Lag1,Rainfall_Roll3,RM_Actual_R000,RM_Source,RM_Stormwater_Treasury_R000,NRW_Percent,Water_Losses_Rmillion,Effluent_Compliance_Percent,Water_Quality_Percent,GD_Score_Percent,BDRR_Health_Inverted,BD_Score_Percent,ND_Score_Percent,KPA_D_Technical_Percent,KPA_E_Effluent_Percent,VROOM_Cost_Rmillion,Flood_Occurred,Core_Complete,Full_Complete_incl_DropScores
+Johannesburg,2015/16,2016,1,-0.5,,-0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2015/16,2016,2,-0.64,-0.5,-1.1400000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2015/16,2016,3,1.36,-0.64,0.22000000000000008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,4,-0.61,1.36,0.1100000000000001,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,5,1.17,-0.61,1.92,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,6,-0.62,1.17,-0.06000000000000005,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,7,1.76,-0.62,2.31,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,8,-0.59,1.76,0.55,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,9,-0.21,-0.59,0.9600000000000001,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,10,-0.61,-0.21,-1.41,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2016,11,-0.67,-0.61,-1.49,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+Johannesburg,2016/17,2016,12,-0.65,-0.67,-1.9300000000000002,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2017,1,2.61,-0.65,1.2899999999999998,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2017,2,1.55,2.61,3.51,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2016/17,2017,3,-0.65,1.55,3.51,NA,No data available,NA,40.3,359.0,74.0,99.8,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,4,-0.61,-0.65,0.29000000000000004,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,5,1.45,-0.61,0.18999999999999995,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,6,-0.62,1.45,0.21999999999999997,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,7,-0.58,-0.62,0.25,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,8,-0.59,-0.58,-1.79,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,9,-0.51,-0.59,-1.68,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,10,0.44,-0.51,-0.6599999999999999,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,11,-0.67,0.44,-0.74,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2017,12,0.95,-0.67,0.72,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2018,1,-0.66,0.95,-0.3800000000000001,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2018,2,-0.64,-0.66,-0.3500000000000001,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2017/18,2018,3,1.94,-0.64,0.6399999999999999,NA,No data available,NA,38.4,NA,72.0,99.9,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,4,-0.61,1.94,0.69,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,5,-0.64,-0.61,0.69,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,6,-0.62,-0.64,-1.87,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,7,2.2,-0.62,0.9400000000000002,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,8,-0.59,2.2,0.9900000000000002,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,9,-0.51,-0.59,1.1,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,10,-0.61,-0.51,-1.71,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,11,-0.67,-0.61,-1.79,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2018,12,-0.26,-0.67,-1.54,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2019,1,1.2,-0.26,0.2699999999999999,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2019,2,1.21,1.2,2.15,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2018/19,2019,3,-0.65,1.21,1.7599999999999998,NA,No data available,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,4,1.1,-0.65,1.6600000000000001,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,5,-0.64,1.1,-0.18999999999999995,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,6,-0.62,-0.64,-0.15999999999999992,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,7,-0.58,-0.62,-1.8399999999999999,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,8,-0.59,-0.58,-1.79,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,9,-0.51,-0.59,-1.68,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,10,-0.61,-0.51,-1.71,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,11,1.83,-0.61,0.7100000000000001,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2019,12,1.52,1.83,2.74,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+Johannesburg,2019/20,2020,1,-0.66,1.52,2.69,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2019/20,2020,2,-0.64,-0.66,0.21999999999999997,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+Johannesburg,2019/20,2020,3,-0.65,-0.64,-1.9500000000000002,NA,No data available,NA,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,4,2.37,-0.65,1.08,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,5,-0.16,2.37,1.56,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,6,0.02,-0.16,2.23,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,7,-0.58,0.02,-0.72,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,8,-0.59,-0.58,-1.15,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,9,-0.51,-0.59,-1.68,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,10,0.4,-0.51,-0.7,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,11,-0.67,0.4,-0.78,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2020,12,-0.65,-0.67,-0.92,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2021,1,0.15,-0.65,-1.1700000000000002,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2020/21,2021,2,1.99,0.15,1.49,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+Johannesburg,2020/21,2021,3,-0.65,1.99,1.49,NA,No data available,NA,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,4,-0.61,-0.65,0.73,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,5,-0.64,-0.61,-1.9,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,6,1.05,-0.64,-0.19999999999999996,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,7,-0.58,1.05,-0.16999999999999993,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,8,-0.59,-0.58,-0.11999999999999988,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,9,-0.51,-0.59,-1.68,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,10,-0.43,-0.51,-1.53,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,11,-0.67,-0.43,-1.61,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2021,12,1.34,-0.67,0.24000000000000005,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2022,1,-0.66,1.34,0.010000000000000009,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2021/22,2022,2,-0.64,-0.66,0.040000000000000036,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,Y,N,N
+Johannesburg,2021/22,2022,3,-0.65,-0.64,-1.9500000000000002,NA,No data available,NA,31.8,2089.4,NA,NA,73.0,65.3,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2022/23,2022,4,5.07,-0.65,3.7800000000000002,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,5,2.0,5.07,6.42,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,6,1.17,2.0,8.24,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,7,-0.58,1.17,2.59,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,8,-0.33,-0.58,0.25999999999999995,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,9,-0.51,-0.33,-1.42,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,10,-0.61,-0.51,-1.45,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,11,1.37,-0.61,0.2500000000000001,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2022,12,-0.65,1.37,0.1100000000000001,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,Y,Y,N
+Johannesburg,2022/23,2023,1,-0.66,-0.65,0.06000000000000005,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2022/23,2023,2,1.25,-0.66,-0.06000000000000005,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,Y,Y,N
+Johannesburg,2022/23,2023,3,-0.65,1.25,-0.06000000000000005,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA,NA,70.8,98.0,50.0,NA,NA,NA,N,Y,N
+Johannesburg,2023/24,2023,4,-0.61,-0.65,-0.010000000000000009,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,5,3.99,-0.61,2.7300000000000004,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,6,-0.62,3.99,2.7600000000000002,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,7,-0.58,-0.62,2.79,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,8,-0.59,-0.58,-1.79,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,9,-0.51,-0.59,-1.68,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,10,-0.33,-0.51,-1.43,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,11,-0.04,-0.33,-0.88,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2023,12,-0.65,-0.04,-1.02,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2024,1,-0.43,-0.65,-1.12,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2024,2,-0.64,-0.43,-1.72,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2023/24,2024,3,-0.65,-0.64,-1.72,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA,48.8,71.9,NA,NA,86.0,47.0,1400.0,N,Y,Y
+Johannesburg,2024/25,2024,4,2.21,-0.65,0.9199999999999999,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,5,-0.64,2.21,0.9199999999999999,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,6,-0.62,-0.64,0.95,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,7,-0.58,-0.62,-1.8399999999999999,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,8,-0.59,-0.58,-1.79,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,9,-0.51,-0.59,-1.68,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,10,-0.61,-0.51,-1.71,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,11,-0.67,-0.61,-1.79,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2024,12,-0.65,-0.67,-1.9300000000000002,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2025,1,2.5,-0.65,1.18,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2025,2,2.33,2.5,4.18,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2024/25,2025,3,0.5,2.33,5.33,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+Johannesburg,2025/26,2025,4,3.12,0.5,5.95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,5,-0.64,3.12,2.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,6,-0.62,-0.64,1.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,7,1.24,-0.62,-0.020000000000000018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,8,1.11,1.24,1.73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,9,-0.31,1.11,2.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,10,-0.16,-0.31,0.6400000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,11,2.48,-0.16,2.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2025,12,-0.56,2.48,1.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2026,1,0.23,-0.56,2.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+Johannesburg,2025/26,2026,2,-0.64,0.23,-0.9700000000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2015/16,2016,1,-0.13,,-0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2015/16,2016,2,-0.59,-0.13,-0.72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2015/16,2016,3,-0.7,-0.59,-1.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+eThekwini,2016/17,2016,4,0.75,-0.7,-0.5399999999999999,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2016/17,2016,5,-0.21,0.75,-0.15999999999999995,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2016/17,2016,6,-0.6,-0.21,-0.05999999999999997,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2016/17,2016,7,1.45,-0.6,0.64,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2016/17,2016,8,1.44,1.45,2.29,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2016/17,2016,9,-0.37,1.44,2.52,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2016/17,2016,10,-0.6,-0.37,0.47,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2016/17,2016,11,-0.57,-0.6,-1.54,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2016/17,2016,12,-0.47,-0.57,-1.64,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2016/17,2017,1,-0.39,-0.47,-1.43,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2016/17,2017,2,1.81,-0.39,0.9500000000000001,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2016/17,2017,3,-0.27,1.81,1.15,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2017,4,-0.27,-0.27,1.27,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2017,5,2.21,-0.27,1.67,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2017/18,2017,6,-0.6,2.21,1.3399999999999999,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2017,7,-0.63,-0.6,0.98,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2017,8,-0.14,-0.63,-1.37,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2017,9,-0.56,-0.14,-1.33,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2017,10,1.08,-0.56,0.38,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2017/18,2017,11,-0.51,1.08,0.010000000000000009,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2017,12,-0.47,-0.51,0.10000000000000009,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2018,1,-0.72,-0.47,-1.7,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2018,2,-0.52,-0.72,-1.71,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2017/18,2018,3,1.17,-0.52,-0.07000000000000006,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,4,-0.55,1.17,0.09999999999999987,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,5,0.96,-0.55,1.5799999999999998,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,6,-0.51,0.96,-0.10000000000000009,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,7,-0.63,-0.51,-0.18000000000000005,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,8,-0.6,-0.63,-1.74,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,9,-0.14,-0.6,-1.37,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,10,-0.6,-0.14,-1.3399999999999999,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,11,-0.56,-0.6,-1.3,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2018,12,-0.34,-0.56,-1.5,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2019,1,-0.69,-0.34,-1.59,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2019,2,0.18,-0.69,-0.85,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2018/19,2019,3,-0.75,0.18,-1.26,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2019/20,2019,4,2.11,-0.75,1.5399999999999998,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+eThekwini,2019/20,2019,5,-0.61,2.11,0.7499999999999999,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2019,6,0.41,-0.61,1.91,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2019,7,-0.63,0.41,-0.8300000000000001,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2019,8,-0.6,-0.63,-0.8200000000000001,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2019,9,0.13,-0.6,-1.1,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2019,10,-0.58,0.13,-1.0499999999999998,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2019,11,2.34,-0.58,1.89,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+eThekwini,2019/20,2019,12,0.71,2.34,2.4699999999999998,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2020,1,-0.72,0.71,2.33,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2020,2,1.98,-0.72,1.97,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2019/20,2020,3,-0.78,1.98,0.48,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,4,-0.19,-0.78,1.01,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,5,-0.61,-0.19,-1.58,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,6,-0.6,-0.61,-1.4,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,7,-0.63,-0.6,-1.8399999999999999,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,8,-0.6,-0.63,-1.83,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,9,-0.39,-0.6,-1.62,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,10,0.3,-0.39,-0.69,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2020,11,1.0,0.3,0.9099999999999999,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+eThekwini,2020/21,2020,12,0.01,1.0,1.31,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2021,1,1.2,0.01,2.21,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2021,2,0.95,1.2,2.1599999999999997,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2020/21,2021,3,0.13,0.95,2.28,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2021/22,2021,4,-0.55,0.13,0.5299999999999999,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,5,-0.18,-0.55,-0.6000000000000001,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,6,1.53,-0.18,0.8,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,7,-0.63,1.53,0.72,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,8,-0.6,-0.63,0.30000000000000004,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,9,1.07,-0.6,-0.15999999999999992,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,10,-0.6,1.07,-0.1299999999999999,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,11,-0.6,-0.6,-0.1299999999999999,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2021,12,1.65,-0.6,0.44999999999999996,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2021/22,2022,1,-0.16,1.65,0.8899999999999999,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,Y,Y,Y
+eThekwini,2021/22,2022,2,-0.13,-0.16,1.3599999999999999,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,Y,Y,Y
+eThekwini,2021/22,2022,3,-0.06,-0.13,-0.35,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA,76.0,67.4,NA,NA,NA,NA,NA,N,Y,Y
+eThekwini,2022/23,2022,4,5.14,-0.06,4.949999999999999,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,Y,Y,N
+eThekwini,2022/23,2022,5,2.2,5.14,7.28,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,Y,Y,N
+eThekwini,2022/23,2022,6,-0.6,2.2,6.74,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2022,7,-0.63,-0.6,0.9700000000000002,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2022,8,-0.6,-0.63,-1.83,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2022,9,-0.56,-0.6,-1.79,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2022,10,-0.55,-0.56,-1.71,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2022,11,-0.6,-0.55,-1.71,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2022,12,0.18,-0.6,-0.97,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2023,1,0.1,0.18,-0.31999999999999995,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,N,Y,N
+eThekwini,2022/23,2023,2,2.29,0.1,2.57,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,Y,Y,N
+eThekwini,2022/23,2023,3,-0.78,2.29,1.61,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA,NA,68.4,94.95,35.0,NA,NA,NA,Y,Y,N
+eThekwini,2023/24,2023,4,-0.55,-0.78,0.96,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2023,5,3.96,-0.55,2.63,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2023,6,-0.42,3.96,2.9899999999999998,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,Y,Y,Y
+eThekwini,2023/24,2023,7,0.21,-0.42,3.75,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2023,8,-0.6,0.21,-0.8099999999999999,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2023,9,-0.56,-0.6,-0.9500000000000001,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2023,10,2.07,-0.56,0.9099999999999998,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2023,11,-0.33,2.07,1.1799999999999997,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2023,12,-0.12,-0.33,1.6199999999999999,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,Y,Y,Y
+eThekwini,2023/24,2024,1,3.03,-0.12,2.5799999999999996,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,Y,Y,Y
+eThekwini,2023/24,2024,2,-0.59,3.03,2.32,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2023/24,2024,3,-0.78,-0.59,1.6599999999999997,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6,31.2,70.3,NA,NA,65.0,27.0,3100.0,N,Y,Y
+eThekwini,2024/25,2024,4,-0.44,-0.78,-1.81,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2024,5,-0.61,-0.44,-1.83,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2024,6,1.44,-0.61,0.38999999999999996,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2024/25,2024,7,-0.63,1.44,0.19999999999999996,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2024,8,-0.6,-0.63,0.20999999999999996,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2024,9,1.15,-0.6,-0.08000000000000007,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2024,10,1.56,1.15,2.11,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2024,11,-0.6,1.56,2.11,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2024,12,-0.47,-0.6,0.4900000000000001,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2025,1,2.12,-0.47,1.0500000000000003,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,N,Y,N
+eThekwini,2024/25,2025,2,-0.37,2.12,1.2800000000000002,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2024/25,2025,3,2.13,-0.37,3.88,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7,NA,NA,NA,NA,NA,NA,NA,Y,Y,N
+eThekwini,2025/26,2025,4,1.43,2.13,3.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+eThekwini,2025/26,2025,5,-0.55,1.43,3.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2025,6,0.81,-0.55,1.69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Y,N,N
+eThekwini,2025/26,2025,7,-0.57,0.81,-0.30999999999999994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2025,8,-0.6,-0.57,-0.3599999999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2025,9,0.0,-0.6,-1.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2025,10,0.27,0.0,-0.32999999999999996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2025,11,-0.55,0.27,-0.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2025,12,-0.47,-0.55,-0.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2026,1,-0.72,-0.47,-1.74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N
+eThekwini,2025/26,2026,2,0.14,-0.72,-1.0499999999999998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,N,N,N

@@ -1,0 +1,245 @@
+component,model,district,year,month,Financial_Year,value
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,1,2015/16,-0.5
+Extreme Precipitation,AgERA5,eThekwini,2016,1,2015/16,-0.13
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,2,2015/16,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2016,2,2015/16,-0.59
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,3,2015/16,1.36
+Extreme Precipitation,AgERA5,eThekwini,2016,3,2015/16,-0.7
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,4,2016/17,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2016,4,2016/17,0.75
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,5,2016/17,1.17
+Extreme Precipitation,AgERA5,eThekwini,2016,5,2016/17,-0.21
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,6,2016/17,-0.62
+Extreme Precipitation,AgERA5,eThekwini,2016,6,2016/17,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,7,2016/17,1.76
+Extreme Precipitation,AgERA5,eThekwini,2016,7,2016/17,1.45
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,8,2016/17,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2016,8,2016/17,1.44
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,9,2016/17,-0.21
+Extreme Precipitation,AgERA5,eThekwini,2016,9,2016/17,-0.37
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,10,2016/17,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2016,10,2016/17,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,11,2016/17,-0.67
+Extreme Precipitation,AgERA5,eThekwini,2016,11,2016/17,-0.57
+Extreme Precipitation,AgERA5,City of Johannesburg,2016,12,2016/17,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2016,12,2016/17,-0.47
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,1,2016/17,2.61
+Extreme Precipitation,AgERA5,eThekwini,2017,1,2016/17,-0.39
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,2,2016/17,1.55
+Extreme Precipitation,AgERA5,eThekwini,2017,2,2016/17,1.81
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,3,2016/17,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2017,3,2016/17,-0.27
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,4,2017/18,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2017,4,2017/18,-0.27
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,5,2017/18,1.45
+Extreme Precipitation,AgERA5,eThekwini,2017,5,2017/18,2.21
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,6,2017/18,-0.62
+Extreme Precipitation,AgERA5,eThekwini,2017,6,2017/18,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,7,2017/18,-0.58
+Extreme Precipitation,AgERA5,eThekwini,2017,7,2017/18,-0.63
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,8,2017/18,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2017,8,2017/18,-0.14
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,9,2017/18,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2017,9,2017/18,-0.56
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,10,2017/18,0.44
+Extreme Precipitation,AgERA5,eThekwini,2017,10,2017/18,1.08
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,11,2017/18,-0.67
+Extreme Precipitation,AgERA5,eThekwini,2017,11,2017/18,-0.51
+Extreme Precipitation,AgERA5,City of Johannesburg,2017,12,2017/18,0.95
+Extreme Precipitation,AgERA5,eThekwini,2017,12,2017/18,-0.47
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,1,2017/18,-0.66
+Extreme Precipitation,AgERA5,eThekwini,2018,1,2017/18,-0.72
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,2,2017/18,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2018,2,2017/18,-0.52
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,3,2017/18,1.94
+Extreme Precipitation,AgERA5,eThekwini,2018,3,2017/18,1.17
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,4,2018/19,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2018,4,2018/19,-0.55
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,5,2018/19,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2018,5,2018/19,0.96
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,6,2018/19,-0.62
+Extreme Precipitation,AgERA5,eThekwini,2018,6,2018/19,-0.51
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,7,2018/19,2.2
+Extreme Precipitation,AgERA5,eThekwini,2018,7,2018/19,-0.63
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,8,2018/19,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2018,8,2018/19,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,9,2018/19,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2018,9,2018/19,-0.14
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,10,2018/19,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2018,10,2018/19,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,11,2018/19,-0.67
+Extreme Precipitation,AgERA5,eThekwini,2018,11,2018/19,-0.56
+Extreme Precipitation,AgERA5,City of Johannesburg,2018,12,2018/19,-0.26
+Extreme Precipitation,AgERA5,eThekwini,2018,12,2018/19,-0.34
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,1,2018/19,1.2
+Extreme Precipitation,AgERA5,eThekwini,2019,1,2018/19,-0.69
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,2,2018/19,1.21
+Extreme Precipitation,AgERA5,eThekwini,2019,2,2018/19,0.18
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,3,2018/19,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2019,3,2018/19,-0.75
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,4,2019/20,1.1
+Extreme Precipitation,AgERA5,eThekwini,2019,4,2019/20,2.11
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,5,2019/20,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2019,5,2019/20,-0.61
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,6,2019/20,-0.62
+Extreme Precipitation,AgERA5,eThekwini,2019,6,2019/20,0.41
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,7,2019/20,-0.58
+Extreme Precipitation,AgERA5,eThekwini,2019,7,2019/20,-0.63
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,8,2019/20,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2019,8,2019/20,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,9,2019/20,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2019,9,2019/20,0.13
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,10,2019/20,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2019,10,2019/20,-0.58
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,11,2019/20,1.83
+Extreme Precipitation,AgERA5,eThekwini,2019,11,2019/20,2.34
+Extreme Precipitation,AgERA5,City of Johannesburg,2019,12,2019/20,1.52
+Extreme Precipitation,AgERA5,eThekwini,2019,12,2019/20,0.71
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,1,2019/20,-0.66
+Extreme Precipitation,AgERA5,eThekwini,2020,1,2019/20,-0.72
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,2,2019/20,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2020,2,2019/20,1.98
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,3,2019/20,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2020,3,2019/20,-0.78
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,4,2020/21,2.37
+Extreme Precipitation,AgERA5,eThekwini,2020,4,2020/21,-0.19
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,5,2020/21,-0.16
+Extreme Precipitation,AgERA5,eThekwini,2020,5,2020/21,-0.61
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,6,2020/21,0.02
+Extreme Precipitation,AgERA5,eThekwini,2020,6,2020/21,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,7,2020/21,-0.58
+Extreme Precipitation,AgERA5,eThekwini,2020,7,2020/21,-0.63
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,8,2020/21,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2020,8,2020/21,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,9,2020/21,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2020,9,2020/21,-0.39
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,10,2020/21,0.4
+Extreme Precipitation,AgERA5,eThekwini,2020,10,2020/21,0.3
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,11,2020/21,-0.67
+Extreme Precipitation,AgERA5,eThekwini,2020,11,2020/21,1
+Extreme Precipitation,AgERA5,City of Johannesburg,2020,12,2020/21,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2020,12,2020/21,0.01
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,1,2020/21,0.15
+Extreme Precipitation,AgERA5,eThekwini,2021,1,2020/21,1.2
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,2,2020/21,1.99
+Extreme Precipitation,AgERA5,eThekwini,2021,2,2020/21,0.95
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,3,2020/21,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2021,3,2020/21,0.13
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,4,2021/22,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2021,4,2021/22,-0.55
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,5,2021/22,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2021,5,2021/22,-0.18
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,6,2021/22,1.05
+Extreme Precipitation,AgERA5,eThekwini,2021,6,2021/22,1.53
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,7,2021/22,-0.58
+Extreme Precipitation,AgERA5,eThekwini,2021,7,2021/22,-0.63
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,8,2021/22,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2021,8,2021/22,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,9,2021/22,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2021,9,2021/22,1.07
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,10,2021/22,-0.43
+Extreme Precipitation,AgERA5,eThekwini,2021,10,2021/22,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,11,2021/22,-0.67
+Extreme Precipitation,AgERA5,eThekwini,2021,11,2021/22,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2021,12,2021/22,1.34
+Extreme Precipitation,AgERA5,eThekwini,2021,12,2021/22,1.65
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,1,2021/22,-0.66
+Extreme Precipitation,AgERA5,eThekwini,2022,1,2021/22,-0.16
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,2,2021/22,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2022,2,2021/22,-0.13
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,3,2021/22,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2022,3,2021/22,-0.06
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,4,2022/23,5.07
+Extreme Precipitation,AgERA5,eThekwini,2022,4,2022/23,5.14
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,5,2022/23,2
+Extreme Precipitation,AgERA5,eThekwini,2022,5,2022/23,2.2
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,6,2022/23,1.17
+Extreme Precipitation,AgERA5,eThekwini,2022,6,2022/23,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,7,2022/23,-0.58
+Extreme Precipitation,AgERA5,eThekwini,2022,7,2022/23,-0.63
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,8,2022/23,-0.33
+Extreme Precipitation,AgERA5,eThekwini,2022,8,2022/23,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,9,2022/23,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2022,9,2022/23,-0.56
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,10,2022/23,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2022,10,2022/23,-0.55
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,11,2022/23,1.37
+Extreme Precipitation,AgERA5,eThekwini,2022,11,2022/23,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2022,12,2022/23,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2022,12,2022/23,0.18
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,1,2022/23,-0.66
+Extreme Precipitation,AgERA5,eThekwini,2023,1,2022/23,0.1
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,2,2022/23,1.25
+Extreme Precipitation,AgERA5,eThekwini,2023,2,2022/23,2.29
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,3,2022/23,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2023,3,2022/23,-0.78
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,4,2023/24,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2023,4,2023/24,-0.55
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,5,2023/24,3.99
+Extreme Precipitation,AgERA5,eThekwini,2023,5,2023/24,3.96
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,6,2023/24,-0.62
+Extreme Precipitation,AgERA5,eThekwini,2023,6,2023/24,-0.42
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,7,2023/24,-0.58
+Extreme Precipitation,AgERA5,eThekwini,2023,7,2023/24,0.21
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,8,2023/24,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2023,8,2023/24,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,9,2023/24,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2023,9,2023/24,-0.56
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,10,2023/24,-0.33
+Extreme Precipitation,AgERA5,eThekwini,2023,10,2023/24,2.07
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,11,2023/24,-0.04
+Extreme Precipitation,AgERA5,eThekwini,2023,11,2023/24,-0.33
+Extreme Precipitation,AgERA5,City of Johannesburg,2023,12,2023/24,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2023,12,2023/24,-0.12
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,1,2023/24,-0.43
+Extreme Precipitation,AgERA5,eThekwini,2024,1,2023/24,3.03
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,2,2023/24,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2024,2,2023/24,-0.59
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,3,2023/24,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2024,3,2023/24,-0.78
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,4,2024/25,2.21
+Extreme Precipitation,AgERA5,eThekwini,2024,4,2024/25,-0.44
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,5,2024/25,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2024,5,2024/25,-0.61
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,6,2024/25,-0.62
+Extreme Precipitation,AgERA5,eThekwini,2024,6,2024/25,1.44
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,7,2024/25,-0.58
+Extreme Precipitation,AgERA5,eThekwini,2024,7,2024/25,-0.63
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,8,2024/25,-0.59
+Extreme Precipitation,AgERA5,eThekwini,2024,8,2024/25,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,9,2024/25,-0.51
+Extreme Precipitation,AgERA5,eThekwini,2024,9,2024/25,1.15
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,10,2024/25,-0.61
+Extreme Precipitation,AgERA5,eThekwini,2024,10,2024/25,1.56
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,11,2024/25,-0.67
+Extreme Precipitation,AgERA5,eThekwini,2024,11,2024/25,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2024,12,2024/25,-0.65
+Extreme Precipitation,AgERA5,eThekwini,2024,12,2024/25,-0.47
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,1,2024/25,2.5
+Extreme Precipitation,AgERA5,eThekwini,2025,1,2024/25,2.12
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,2,2024/25,2.33
+Extreme Precipitation,AgERA5,eThekwini,2025,2,2024/25,-0.37
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,3,2024/25,0.5
+Extreme Precipitation,AgERA5,eThekwini,2025,3,2024/25,2.13
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,4,2025/26,3.12
+Extreme Precipitation,AgERA5,eThekwini,2025,4,2025/26,1.43
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,5,2025/26,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2025,5,2025/26,-0.55
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,6,2025/26,-0.62
+Extreme Precipitation,AgERA5,eThekwini,2025,6,2025/26,0.81
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,7,2025/26,1.24
+Extreme Precipitation,AgERA5,eThekwini,2025,7,2025/26,-0.57
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,8,2025/26,1.11
+Extreme Precipitation,AgERA5,eThekwini,2025,8,2025/26,-0.6
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,9,2025/26,-0.31
+Extreme Precipitation,AgERA5,eThekwini,2025,9,2025/26,0
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,10,2025/26,-0.16
+Extreme Precipitation,AgERA5,eThekwini,2025,10,2025/26,0.27
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,11,2025/26,2.48
+Extreme Precipitation,AgERA5,eThekwini,2025,11,2025/26,-0.55
+Extreme Precipitation,AgERA5,City of Johannesburg,2025,12,2025/26,-0.56
+Extreme Precipitation,AgERA5,eThekwini,2025,12,2025/26,-0.47
+Extreme Precipitation,AgERA5,City of Johannesburg,2026,1,2025/26,0.23
+Extreme Precipitation,AgERA5,eThekwini,2026,1,2025/26,-0.72
+Extreme Precipitation,AgERA5,City of Johannesburg,2026,2,2025/26,-0.64
+Extreme Precipitation,AgERA5,eThekwini,2026,2,2025/26,0.14

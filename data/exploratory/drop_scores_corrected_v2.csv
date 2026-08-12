@@ -1,0 +1,7 @@
+Financial_Year,Municipality,GD_Score_Percent,BD_Score_Percent,ND_Score_Percent,VROOM_Cost_Rmillion,KPA_Notes,FY_Basis
+2021/22,eThekwini,76.0,NA,NA,NA,NA,CONFIRMED (verified against 2022 Green Drop Report press coverage; corrected from erroneous 51% in user-supplied file)
+2021/22,Johannesburg,73.0,NA,NA,NA,NA,CONFIRMED (matches verified 2022 Green Drop Report figure)
+2022/23,eThekwini,NA,94.95,35.0,NA,Water Efficiency 35% | Water Loss/Leaks 65%,ASSUMPTION (2023 Blue/No Drop reports mapped to FY2022/23 per prior convention)
+2022/23,Johannesburg,NA,98.0,50.0,NA,"Non-Revenue Water: Poor | Water Loss: Critical (reported as <50%, upper bound used)",ASSUMPTION (2023 Blue/No Drop reports mapped to FY2022/23)
+2023/24,eThekwini,31.2,NA,NA,3100.0,Maintenance & Operations <35% | Effluent Compliance: Critical,CONFIRMED (GD25/BD PAT report cycle)
+2023/24,Johannesburg,48.8,NA,NA,1400.0,Capacity Management 52% | Financial Management 41%,CONFIRMED (GD25/BD PAT report cycle)

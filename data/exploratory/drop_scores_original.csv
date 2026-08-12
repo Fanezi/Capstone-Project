@@ -1,0 +1,13 @@
+Municipality,Calendar_Year,Financial_Year_Mapped,Financial_Year_Assumed,FY_Basis,GD_Score_Percent,BDRR_Risk_Percent,BDRR_Health_Inverted,KPA_D_Technical_Percent,KPA_E_Effluent_Percent,Potable_Loss_NoDrop_Percent,VROOM_Cost_Rmillion,Notes
+eThekwini,2011,NA - unconfirmed,2010/11,ASSUMPTION - not verified against source report methodology,79.0,NA,NA,NA,NA,NA,NA,
+eThekwini,2013,NA - unconfirmed,2012/13,ASSUMPTION - not verified against source report methodology,90.0,NA,NA,NA,NA,NA,NA,
+eThekwini,2021,NA - unconfirmed,2020/21,ASSUMPTION - not verified against source report methodology,76.0,NA,NA,NA,NA,NA,NA,
+eThekwini,2022,NA - unconfirmed,2021/22,ASSUMPTION - not verified against source report methodology,NA,32.6,67.4,NA,NA,NA,NA,
+eThekwini,2023,NA - unconfirmed,2022/23,ASSUMPTION - not verified against source report methodology,NA,31.6,68.4,NA,NA,NA,NA,
+eThekwini,2024,2023/24,2023/24,CONFIRMED - GD25/BD PAT report cycle,31.2,29.7,70.3,65.0,27.0,NA,2710.0,GD25/BD PAT cycle - VROOM cost is city-wide wastewater restoration estimate; page reference not yet confirmed
+Johannesburg,2011,NA - unconfirmed,2010/11,ASSUMPTION - not verified against source report methodology,91.0,NA,NA,NA,NA,NA,NA,
+Johannesburg,2013,NA - unconfirmed,2012/13,ASSUMPTION - not verified against source report methodology,86.0,NA,NA,NA,NA,NA,NA,
+Johannesburg,2021,NA - unconfirmed,2020/21,ASSUMPTION - not verified against source report methodology,73.0,NA,NA,NA,NA,NA,NA,
+Johannesburg,2022,NA - unconfirmed,2021/22,ASSUMPTION - not verified against source report methodology,NA,34.7,65.3,NA,NA,NA,NA,
+Johannesburg,2023,NA - unconfirmed,2022/23,ASSUMPTION - not verified against source report methodology,NA,29.2,70.8,NA,NA,NA,NA,
+Johannesburg,2024,2023/24,2023/24,CONFIRMED - GD25/BD PAT report cycle,48.8,28.1,71.9,86.0,47.0,24.8,136.4,GD25/BD PAT cycle - VROOM cost is Northern Works only (not city-wide); page reference not yet confirmed

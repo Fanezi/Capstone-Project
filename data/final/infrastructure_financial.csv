@@ -1,0 +1,19 @@
+Municipality,R&M_Actual_R000,NRW_Percent,Water_Losses_Rmillion,Effluent_Compliance_Percent,Water_Quality_Percent,Notes,Financial_Year
+eThekwini,4353900,37.0,716.5,NA,NA,"R&M and water loss figures are BUDGETED, not audited actuals (source only provided budget-year data); NRW 37% also budgeted, consistent with independent DWS audit finding NRW was ~37% in 2013, supporting plausibility.",2016/17
+eThekwini,2569617,32.7,714.0,NA,NA,,2017/18
+eThekwini,2818441,36.85,968.1,NA,NA,,2018/19
+eThekwini,NA,51.0,NA,NA,NA,NRW backfilled from National Treasury/Annual Report; R&M and water losses not yet sourced for this year,2019/20
+eThekwini,NA,52.4,NA,NA,NA,NRW backfilled from National Treasury/Annual Report; R&M and water losses not yet sourced for this year,2020/21
+eThekwini,3575144,56.2,1989.1,NA,NA,,2021/22
+eThekwini,4036600,58.2,2030.5,71.7,NA,,2022/23
+eThekwini,4832528,54.4,2000.0,74.7,98.6,,2023/24
+eThekwini,5027173,58.7,2910.0,77.1,98.7,"NRW of 58.7% is sourced from FY2024/25 annual report; NOTE - other in-year municipal reporting for the same period shows NRW in the 52-56% range (Exco water supply updates), a known inconsistency across South African municipal reporting cycles depending on report type/date within the FY. Flagged as a data limitation.",2024/25
+Johannesburg,NA,40.3,359.0,74.0,99.8,Water loss figure refers specifically to losses exceeding industry norm per auditor findings,2016/17
+Johannesburg,NA,38.4,NA,72.0,99.9,,2017/18
+Johannesburg,NA,NA,NA,NA,NA,Not yet sourced,2018/19
+Johannesburg,NA,37.9,NA,NA,NA,NRW backfilled from National Treasury/Annual Report; R&M and water losses not yet sourced for this year,2019/20
+Johannesburg,NA,39.4,NA,NA,NA,NRW backfilled from National Treasury/Annual Report; R&M and water losses not yet sourced for this year,2020/21
+Johannesburg,NA,31.8,2089.4,NA,NA,,2021/22
+Johannesburg,529193,33.4,2394.3,NA,NA,,2022/23
+Johannesburg,686930,46.2,2900.1,NA,NA,,2023/24
+Johannesburg,965398,44.8,2821.1,NA,NA,,2024/25

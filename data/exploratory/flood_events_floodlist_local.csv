@@ -1,0 +1,21 @@
+City,Confidence,Source,Disaster Subtype,Severity,Start Year,Start Month,Start Day,End Year,End Month,End Day
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Minor-Moderate,2016,3,16,2016,3,16
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate-Major,2016,5,8,2016,5,9
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood with Localised Landslides,Moderate,2016,7,28,2016,7,28
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate,2017,10,17,2017,10,17
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate,2019,3,10,2019,3,10
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial) with Landslides,Major,2019,4,21,2019,4,23
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Minor-Moderate,2019,11,18,2019,11,18
+Johannesburg,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate,2020,2,8,2020,2,8
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Minor-Moderate,2020,11,20,2020,11,20
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Minor-Moderate,2022,2,4,2022,2,4
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial) with Landslides,Catastrophic,2022,4,8,2022,4,13
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate,2022,5,21,2022,5,22
+Johannesburg,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate,2022,12,3,2022,12,4
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Minor-Moderate,2023,3,3,2023,3,3
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate,2024,1,13,2024,1,13
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate-Major,2024,1,16,2024,1,16
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Major,2025,2,19,2025,2,21
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Moderate-Major,2025,3,13,2025,3,15
+eThekwini,Confirmed-Local,FloodList/peer-reviewed literature (user-verified),Flash Flood (Urban/Pluvial),Minor,2025,4,25,2025,4,25
+eThekwini,Confirmed-Local,"FloodList (news-verified, city-explicit)",Flash Flood (Urban/Pluvial),Moderate,2023,6,27,2023,6,29

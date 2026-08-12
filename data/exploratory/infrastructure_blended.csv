@@ -1,0 +1,19 @@
+Municipality,Financial_Year,RM_Actual_R000_Blended,RM_Source,RM_Stormwater_Treasury_R000,NRW_Percent,Water_Losses_Rmillion,Effluent_Compliance_Percent,Water_Quality_Percent
+Johannesburg,2016/17,NA,No data available,NA,40.3,359.0,74.0,99.8
+Johannesburg,2017/18,NA,No data available,NA,38.4,NA,72.0,99.9
+Johannesburg,2018/19,NA,No data available,NA,NA,NA,NA,NA
+Johannesburg,2019/20,NA,No data available,NA,37.9,NA,NA,NA
+Johannesburg,2020/21,NA,No data available,NA,39.4,NA,NA,NA
+Johannesburg,2021/22,NA,No data available,NA,31.8,2089.4,NA,NA
+Johannesburg,2022/23,529193,Legacy scraped (mixed scope - flagged for caution),NA,33.4,2394.3,NA,NA
+Johannesburg,2023/24,686930,Legacy scraped (mixed scope - flagged for caution),NA,46.2,2900.1,NA,NA
+Johannesburg,2024/25,965398,Legacy scraped (mixed scope - flagged for caution),NA,44.8,2821.1,NA,NA
+eThekwini,2016/17,4353900,Legacy scraped (mixed scope - flagged for caution),NA,37.0,716.5,NA,NA
+eThekwini,2017/18,2569617,Legacy scraped (mixed scope - flagged for caution),NA,32.7,714.0,NA,NA
+eThekwini,2018/19,2818441,Legacy scraped (mixed scope - flagged for caution),NA,36.85,968.1,NA,NA
+eThekwini,2019/20,696185.973,"Treasury (water/sanitation-specific, standardized)",164749.306,51.0,NA,NA,NA
+eThekwini,2020/21,502402.163,"Treasury (water/sanitation-specific, standardized)",161119.699,52.4,NA,NA,NA
+eThekwini,2021/22,641572.57,"Treasury (water/sanitation-specific, standardized)",168568.659,56.2,1989.1,NA,NA
+eThekwini,2022/23,752682.731,"Treasury (water/sanitation-specific, standardized)",189061.422,58.2,2030.5,71.7,NA
+eThekwini,2023/24,981442.611,"Treasury (water/sanitation-specific, standardized)",187947.386,54.4,2000.0,74.7,98.6
+eThekwini,2024/25,1195452.336,"Treasury (water/sanitation-specific, standardized)",230386.371,58.7,2910.0,77.1,98.7
