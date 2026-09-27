@@ -169,24 +169,6 @@ Infrastructure-related variables provided a meaningful secondary contribution.
 
 This provides supporting evidence for the project's hypothesis that climate conditions, together with infrastructure-related information, can provide useful signals for flood-risk prediction.
 
----
-
-## Robustness Testing
-
-Four independent robustness tests were conducted before finalising the model configuration.
-
-These included testing:
-
-* An expanded flood-event dataset containing additional independently verified events
-* Higher-quality standardised infrastructure data from National Treasury
-* Additional engineered features
-* Alternative model configurations
-
-Across these tests, the original, simpler configuration consistently outperformed the alternatives.
-
-This suggests that, given the relatively small sample size, increasing model complexity or adding additional variables did not necessarily improve predictive performance.
-
----
 
 # Insurance Pricing Simulation
 
@@ -208,7 +190,6 @@ Damage values reported in US dollars were converted to South African rand.
 
 The **median** damage value was used rather than the mean to reduce the influence of a single catastrophic outlier event.
 
----
 
 ## Pricing Results
 
@@ -226,29 +207,8 @@ Instead, it **redistributes pricing according to changing predicted risk**, resu
 
 This demonstrates the potential mechanism through which predictive modelling could support more risk-sensitive insurance pricing.
 
----
-
-## Potential Impact
-
-The project demonstrates how combining infrastructure, climate, and historical disaster information could support decision-making in areas such as:
-
-* Flood-risk assessment
-* Municipal infrastructure planning
-* Predictive maintenance
-* Insurance risk assessment
-* Dynamic or risk-sensitive pricing
-* Disaster preparedness
-* Resource allocation
-
-For insurers, a predictive approach could potentially provide a more responsive representation of changing risk than a single historical flat rate.
-
-For municipalities, infrastructure-related information could contribute to a broader understanding of flood vulnerability.
-
----
 
 ## Limitations
-
-The results should be interpreted as **feasibility evidence rather than definitive proof**.
 
 Three important limitations were identified.
 
@@ -268,74 +228,3 @@ In particular, the model's **45% recall** means that some historical flood event
 
 Therefore, the pricing results should be viewed as a simulation demonstrating the potential application of predictive risk information rather than a production-ready insurance pricing system.
 
----
-
-## Conclusion
-
-This project provides feasibility evidence that **water infrastructure condition and climate information can be integrated into an AI-driven flood-risk prediction framework** for South African cities.
-
-The Random Forest model identified rainfall and lagged rainfall as the strongest predictive signals while infrastructure variables provided additional information.
-
-The predicted risk was subsequently incorporated into a pure-premium insurance pricing simulation, demonstrating how model-based risk estimates can produce more responsive pricing than a traditional flat historical rate.
-
-Overall, the project demonstrates a potential pathway from:
-
-```text
-Infrastructure + Climate Data
-            ↓
-      Data Integration
-            ↓
-     Feature Engineering
-            ↓
-     Flood Risk Model
-            ↓
-   Predicted Flood Risk
-            ↓
-    Frequency × Severity
-            ↓
-Risk-Sensitive Premium Simulation
-```
-
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Machine Learning
-* Statistical Analysis
-* Data Integration
-* Predictive Modelling
-
----
-
-## Repository Structure
-
-```text
-capstone-project/
-│
-├── data/
-│   └── Project datasets
-│
-├── notebook/
-│   └── Data analysis and modelling notebooks
-│
-├── outputs/
-│   └── Figures, tables and model results
-│
-├── README.md
-├── .gitignore
-└── .gitattributes
-```
----
-
-## Author
-
-**Zinhle Fanezi Mahlangu**
-
-BSc Data Science | Mathematics & Statistics | Machine Learning | Python
-
-Final-Year Data Science Capstone Project
